@@ -14,7 +14,9 @@ My research interests are focused on computer vision, multi-modal learning, vide
 <h1 id="-news">News</h1>
 <ul>
   <li><em>2025.11</em>: 🎉 One paper has been accepted to <strong>AAAI 2026</strong>.</li>
-  <li><em>2025.08</em>: 🎉 One paper have been accepted to <strong>ICLR 2026</strong>! See you in Brazil🇧🇷！</li>
+  <li><em>2025.07</em>: 🎉 One paper have been accepted to <strong>TPAMI 2025</strong>.</li>
+  <li><em>2025.02</em>: 🎉 One paper have been accepted to <strong>CVPR 2025</strong>.</li>
+  <li><em>2025.01</em>: 🎉 One paper has been accepted to <strong>ICLR 2025 Spotlight</strong>.</li>
 </ul>
 
 ======
