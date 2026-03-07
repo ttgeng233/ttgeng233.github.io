@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Tiantian, a PhD candidate in computer science at University of Birmingham (2022-2026), supervised by [Prof. Jinming Duan](https://j-duan.github.io/) and [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2) (SUSTech). Before that, I received my Bachelor’s degree and Master’s degree from University of Electronic Science and Technology of China (UESTC) in 2019 and 2022.
 
-My research interests are focused on computer vision, multi-modal learning, video understanding. I am also intersted in multi-modal large models and embodied AI. 
+My research interests are focused on computer vision, multi-modal learning, video understanding. I am also interested in multi-modal large models and embodied AI. 
 
 <h1 id="-news">News</h1>
 <ul>
@@ -24,7 +24,7 @@ My research interests are focused on computer vision, multi-modal learning, vide
 
 <div class="paper">
 
-<img src="/images/papers/unavale.png" width="220">
+<img src="/images/unav.png" width="220">
 
 **UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization**  
 Tiantian Wang, ...  
@@ -38,7 +38,7 @@ Tiantian Wang, ...
 
 <div class="paper">
 
-<img src="/images/papers/longvale.png" width="220">
+<img src="/images/fig_longvale.jpg" width="220">
 
 **LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos**  
 Tiantian Wang, ...  
