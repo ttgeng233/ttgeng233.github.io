@@ -9,8 +9,14 @@ redirect_from:
 
 Hi! I am Tiantian, a PhD candidate in computer science at University of Birmingham (2022-2026), supervised by [Prof. Jinming Duan](https://j-duan.github.io/) and [Prof. Feng Zheng](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2) (SUSTech). Before that, I received my Bachelor’s degree and Master’s degree from University of Electronic Science and Technology of China (UESTC) in 2019 and 2022.
 
+My research interests are focused on computer vision, multi-modal learning, video understanding. I am also intersted in , multi-modal large models and embodied AI. 
 
-A data-driven personal website
+<h1 id="-news">News</h1>
+<ul>
+  <li><em>2025.11</em>: 🎉 One paper has been accepted to <strong>AAAI 2026</strong>.</li>
+  <li><em>2025.08</em>: 🎉 One paper have been accepted to <strong>ICLR 2026</strong>! See you in Brazil🇧🇷！</li>
+</ul>
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
