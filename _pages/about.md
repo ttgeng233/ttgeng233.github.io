@@ -148,7 +148,8 @@ UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
 
 <img class="paper-thumb"
 src="/images/fig_longvale.jpg"
-data-large-src="/images/papers/longvale.png">
+data-large-src="/images/fig_longvale.jpg">
+
 
 <div class="paper-info">
 
