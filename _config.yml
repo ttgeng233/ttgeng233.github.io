@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Tiantian Geng"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tiantian Geng"
 description              : &description "Ph.D Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "ttgeng233/ttgeng233.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tiantian Geng"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D Student, "
+  bio              : "Ph.D Student"
   location         : #"Earth"
   employer         : "University of Birmingham"
   uri              : # URL
