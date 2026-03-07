@@ -63,7 +63,7 @@ ul.paper-list {
 }
 
 .paper-authors {
-  font-size: 14px;
+  font-size: 13px;
   color: #666;
   margin-bottom: 5px;
 }
