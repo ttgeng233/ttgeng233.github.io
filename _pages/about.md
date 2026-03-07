@@ -211,22 +211,27 @@ Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmar
 <img id="overlay-img">
 </div>
 
+
 <script>
 
-const thumbs = document.querySelectorAll(".paper-thumb");
-const overlay = document.getElementById("overlay");
-const overlayImg = document.getElementById("overlay-img");
+document.addEventListener("DOMContentLoaded", function() {
 
-thumbs.forEach(img => {
-  img.onclick = () => {
-    overlayImg.src = img.dataset.largeSrc;
-    overlay.style.visibility = "visible";
-  }
-})
+  const thumbs = document.querySelectorAll(".paper-thumb");
+  const overlay = document.getElementById("overlay");
+  const overlayImg = document.getElementById("overlay-img");
 
-overlay.onclick = () => {
-  overlay.style.visibility = "hidden";
-}
+  thumbs.forEach(function(img) {
+    img.addEventListener("click", function() {
+      overlayImg.src = img.getAttribute("data-large-src");
+      overlay.style.visibility = "visible";
+    });
+  });
+
+  overlay.addEventListener("click", function() {
+    overlay.style.visibility = "hidden";
+  });
+
+});
 
 </script>
 
