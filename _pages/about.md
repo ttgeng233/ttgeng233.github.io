@@ -77,6 +77,7 @@ ul.paper-list {
 
 .paper-conf {
   font-weight: bold;
+  font-size: 13px;
   color: #333;
 }
 
@@ -150,17 +151,16 @@ UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
 src="/images/fig_longvale.jpg"
 data-large-src="/images/fig_longvale.jpg">
 
-
 <div class="paper-info">
 
 <p class="paper-title">
-<a href="#" target="_blank">
+<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.html" target="_blank">
 LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos
 </a>
 </p>
 
 <p class="paper-authors">
-<b>Tiantian Wang</b>, ...
+<b>Tiantian Geng</b>, Jinrui Zhang, Qingni Wang, Teng Wang, Jinming Duan, Feng Zheng
 </p>
 
 <p class="paper-meta">
