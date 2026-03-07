@@ -21,8 +21,9 @@ My research interests are focused on computer vision, multi-modal learning, vide
 
 
 
-# Publications
+<!-- # Publications -->
 
+<h1 id="-publications">Publications</h1>
 <style>
 ul.paper-list {
   list-style-type: none;
