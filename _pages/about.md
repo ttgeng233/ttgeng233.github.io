@@ -11,6 +11,7 @@ Hi! I am Tiantian, a PhD candidate in computer science at University of Birmingh
 
 My research interests are focused on computer vision, multi-modal learning, video understanding. I am also interested in multi-modal large models and embodied AI. 
 
+
 <h1 id="-news">News</h1>
 <ul>
   <li><em>2025.11</em>: 🎉 One paper has been accepted to <strong>AAAI 2026</strong>.</li>
@@ -249,8 +250,8 @@ Qingni Wang, <b>Tiantian Geng</b>, Zhiyuan Wang, Teng Wang, Bo Fu, Feng Zheng
 <li class="paper-item">
 
 <img class="paper-thumb"
-src="/images/fig_unav.pdf"
-data-large-src="/images/fig_unav.pdf">
+src="/images/unav.png"
+data-large-src="/images/unav.png">
 
 <div class="paper-info">
 
@@ -278,7 +279,35 @@ Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmar
 </div>
 </li>
 
+<li class="paper-item">
 
+<img class="paper-thumb"
+src="/images/aaai23.png"
+data-large-src="/images/aaai23.png">
+
+<div class="paper-info">
+
+<div class="paper-title">
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25392" target="_blank">
+Skating-Mixer: Long-Term Sport Audio-Visual Modeling with MLPs
+</a>
+</div>
+
+<div class="paper-authors">
+Jingfei Xia, Mingchen Zhuge, <b>Tiantian Geng</b>, Shun Fan, Yuantai Wei, Zhenyu He, Feng Zheng
+</div>
+
+<div class="paper-meta">
+<span class="paper-conf">AAAI 2023</span>
+<span class="paper-links">
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25392">[Paper]</a>
+
+
+</span>
+</div>
+
+</div>
+</li>
 
 
 
