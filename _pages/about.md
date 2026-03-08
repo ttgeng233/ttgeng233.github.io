@@ -64,10 +64,10 @@ ul.paper-list {
 
 .paper-info .paper-authors {
   font-weight: 500;
-  font-size: 13px;
+  font-size: 14px;
   color: #666;
-  margin-top: 0;
-  margin-bottom: 4px;
+  margin-top: 2px;
+  margin-bottom: 8px;
 }
 
 .paper-meta {
