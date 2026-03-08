@@ -246,6 +246,37 @@ Qingni Wang, <b>Tiantian Geng</b>, Zhiyuan Wang, Teng Wang, Bo Fu, Feng Zheng
 </li>
 
 
+<li class="paper-item">
+
+<img class="paper-thumb"
+src="/images/fig_unav.pdf"
+data-large-src="/images/fig_unav.pdf">
+
+<div class="paper-info">
+
+<div class="paper-title">
+<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Geng_Dense-Localizing_Audio-Visual_Events_in_Untrimmed_Videos_A_Large-Scale_Benchmark_and_CVPR_2023_paper.html" target="_blank">
+Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline
+</a>
+</div>
+
+<div class="paper-authors">
+<b>Tiantian Geng</b>, Teng Wang, Jinming Duan, Runmin Cong, Feng Zheng
+</div>
+
+<div class="paper-meta">
+<span class="paper-conf">CVPR 2023</span>
+<span class="paper-links">
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Geng_Dense-Localizing_Audio-Visual_Events_in_Untrimmed_Videos_A_Large-Scale_Benchmark_and_CVPR_2023_paper.pdf">[Paper]</a>
+<a href="https://unav100.github.io/">[Project]</a>
+<a href="https://github.com/ttgeng233/UnAV">[Code]</a>
+<a href="https://huggingface.co/datasets/ttgeng233/UnAV-100">[Data]</a>
+
+</span>
+</div>
+
+</div>
+</li>
 
 
 
