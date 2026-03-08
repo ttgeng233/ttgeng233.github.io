@@ -53,7 +53,7 @@ ul.paper-list {
 
 .paper-title {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 16px;
   margin-bottom: 2px;
 }
 
@@ -66,6 +66,7 @@ ul.paper-list {
   font-weight: 500;
   font-size: 13px;
   color: #666;
+  margin-top: 0;
   margin-bottom: 4px;
 }
 
