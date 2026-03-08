@@ -63,7 +63,7 @@ ul.paper-list {
 }
 
 .paper-authors {
-  font-size: 12px;
+  font-weight: 500;
   color: #666;
   margin-bottom: 4px;
 }
@@ -72,12 +72,10 @@ ul.paper-list {
   font-size: 13px;
   display: flex;
   align-items: center;
-  <!-- gap: 10px; -->
 }
 
 .paper-conf {
   font-weight: 500;
-  <!-- font-size: 13px; -->
   color: #b31b1b;
   margin-right: 12px;
 }
