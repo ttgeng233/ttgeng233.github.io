@@ -66,7 +66,7 @@ ul.paper-list {
   font-weight: 500;
   font-size: 14px;
   color: #666;
-  margin-top: 2px;
+  margin-top: 4px;
   margin-bottom: 8px;
 }
 
@@ -170,7 +170,7 @@ LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Pe
 <b>Tiantian Geng</b>, Jinrui Zhang, Qingni Wang, Teng Wang, Jinming Duan, Feng Zheng
 </div>
 
-<p class="paper-meta">
+<div class="paper-meta">
 <span class="paper-conf">CVPR 2025</span>
 <span class="paper-links">
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.pdf">[Paper]</a>
@@ -178,7 +178,7 @@ LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Pe
 <a href="https://github.com/ttgeng233/LongVALE">[Code]</a>
 <a href="https://huggingface.co/datasets/ttgeng233/LongVALE">[Data]</a>
 </span>
-</p>
+</div>
 
 </div>
 </li>
