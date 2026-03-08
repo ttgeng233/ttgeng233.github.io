@@ -124,29 +124,29 @@ ul.paper-list {
 <li class="paper-item">
 
 <img class="paper-thumb"
-src="/images/papers/unavale.png"
-data-large-src="/images/papers/unavale.png">
+src="/images/fig1_ravst.png"
+data-large-src="/images/fig1_ravst.png">
 
 <div class="paper-info">
 
-<p class="paper-title">
-<a href="#" target="_blank">
-UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
+<div class="paper-title">
+<a href="https://arxiv.org/abs/2511.16901" target="_blank">
+R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios
 </a>
-</p>
+</div>
 
-<p class="paper-authors">
-<b>Tiantian Wang</b>, ...
-</p>
+<div class="paper-authors">
+Lu Zhu<sup>*</sup>, <b>Tiantian Geng<sup>*</sup></b>, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng
+</div>
 
-<p class="paper-meta">
-<span class="paper-conf">TPAMI 2025</span>
+<div class="paper-meta">
+<span class="paper-conf">AAAI 2026</span>
 <span class="paper-links">
-<a href="#">[Paper]</a>
-<a href="#">[Project]</a>
-<a href="#">[Code]</a>
+<a href="https://arxiv.org/pdf/2511.16901">[Paper]</a>
+<a href="https://github.com/zhlllau/R-AVST">[Code]</a>
+<a href="https://huggingface.co/datasets/Lu222/R-AVST">[Data]</a>
 </span>
-</p>
+</div>
 
 </div>
 </li>
