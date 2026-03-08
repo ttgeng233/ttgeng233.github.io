@@ -24,6 +24,8 @@ My research interests are focused on computer vision, multi-modal learning, vide
 <!-- # Publications -->
 
 <h1 id="-publications">Publications</h1>
+<p>* means equal contribution. Click the image for better visualization.</p>
+
 <style>
 ul.paper-list {
   list-style-type: none;
