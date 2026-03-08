@@ -166,9 +166,10 @@ LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Pe
 <p class="paper-meta">
 <span class="paper-conf">CVPR 2025</span>
 <span class="paper-links">
-<a href="#">[Paper]</a>
-<a href="#">[Project]</a>
-<a href="#">[Code]</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.pdf">[Paper]</a>
+<a href="https://ttgeng233.github.io/LongVALE/">[Project]</a>
+<a href="https://github.com/ttgeng233/LongVALE">[Code]</a>
+<a href="https://huggingface.co/datasets/ttgeng233/LongVALE">[Data]</a>
 </span>
 </p>
 
