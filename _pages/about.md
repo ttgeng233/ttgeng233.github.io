@@ -33,14 +33,14 @@ ul.paper-list {
 .paper-item {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .paper-thumb {
   width: 160px;
-  height: 120px;
+  height: 100px;
   flex-shrink: 0;
-  margin-right: 15px;
+  margin-right: 16px;
   border: 1px solid #ccc;
   border-radius: 5px;
   object-fit: cover;
