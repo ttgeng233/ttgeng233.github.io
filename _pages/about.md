@@ -76,9 +76,9 @@ ul.paper-list {
 }
 
 .paper-conf {
-  font-weight: 600;
+  font-weight: 500;
   <!-- font-size: 13px; -->
-  color: #333;
+  color: #b31b1b;
   margin-right: 12px;
 }
 
