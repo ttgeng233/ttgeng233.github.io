@@ -54,7 +54,7 @@ ul.paper-list {
 .paper-title {
   font-weight: bold;
   font-size: 18px;
-  margin: 0 0 6px;
+  margin-bottom: 2px;
 }
 
 .paper-title a {
