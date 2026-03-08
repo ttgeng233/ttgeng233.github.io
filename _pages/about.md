@@ -64,6 +64,7 @@ ul.paper-list {
 
 .paper-authors {
   font-weight: 500;
+  font-size: 13px;
   color: #666;
   margin-bottom: 4px;
 }
@@ -75,7 +76,8 @@ ul.paper-list {
 }
 
 .paper-conf {
-  font-weight: 500;
+  font-weight: bold;
+  font-size: 13px;
   color: #b31b1b;
   margin-right: 12px;
 }
