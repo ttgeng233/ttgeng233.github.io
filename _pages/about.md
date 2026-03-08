@@ -11,6 +11,9 @@ Hi! I am Tiantian, a PhD candidate in computer science at University of Birmingh
 
 My research interests are focused on computer vision, multi-modal learning, video understanding. I am also interested in multi-modal large models and embodied AI. 
 
+Open to collaborations and academic discussions — feel free to reach out!
+
+
 
 <h1 id="-news">News</h1>
 <ul>
