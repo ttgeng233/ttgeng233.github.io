@@ -138,7 +138,7 @@ R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Com
 </div>
 
 <div class="paper-authors">
-Lu Zhu<sup>*</sup>, <b>Tiantian Geng<sup>*</sup></b>, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng
+Lu Zhu*, <b>Tiantian Geng*</b>, Yangye Chen, Teng Wang, Ping Lu, Feng Zheng
 </div>
 
 <div class="paper-meta">
@@ -189,29 +189,28 @@ LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Pe
 <li class="paper-item">
 
 <img class="paper-thumb"
-src="/images/papers/unav100.png"
-data-large-src="/images/papers/unav100.png">
+src="/images/fig_uniav.png"
+data-large-src="/images/fig_uniav.png">
 
 <div class="paper-info">
 
-<p class="paper-title">
-<a href="#" target="_blank">
-Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline
+<div class="paper-title">
+<a href="https://ieeexplore.ieee.org/abstract/document/11119190" target="_blank">
+UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
 </a>
-</p>
+</div>
 
-<p class="paper-authors">
-<b>Tiantian Wang</b>, ...
-</p>
+<div class="paper-authors">
+<b>Tiantian Geng</b>, Teng Wang, Jinming Duan, Yanfu Zhang, Weili Guan, Feng Zheng, Ling Shao
+</div>
 
-<p class="paper-meta">
-<span class="paper-conf">ICLR 2025 Spotlight</span>
+<div class="paper-meta">
+<span class="paper-conf">TPAMI 2025</span>
 <span class="paper-links">
-<a href="#">[Paper]</a>
-<a href="#">[Project]</a>
-<a href="#">[Code]</a>
+<a href="https://arxiv.org/pdf/2404.03179">[Paper]</a>
+<a href="https://github.com/ttgeng233/UniAV">[Code]</a>
 </span>
-</p>
+</div>
 
 </div>
 </li>
