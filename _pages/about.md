@@ -310,6 +310,37 @@ Jingfei Xia, Mingchen Zhuge, <b>Tiantian Geng</b>, Shun Fan, Yuantai Wei, Zhenyu
 </li>
 
 
+<li class="paper-item">
+
+<img class="paper-thumb"
+src="/images/tip.png"
+data-large-src="/images/tip.png">
+
+<div class="paper-info">
+
+<div class="paper-title">
+<a href="https://ieeexplore.ieee.org/abstract/document/9852978" target="_blank">
+Spatial-Temporal Pyramid Graph Reasoning for Action Recognition
+</a>
+</div>
+
+<div class="paper-authors">
+<b>Tiantian Geng</b>, Feng Zheng, Xiaorong Hou, Ke Lu, Guo-Jun Qi, Ling Shao
+</div>
+
+<div class="paper-meta">
+<span class="paper-conf">TIP 2022</span>
+<span class="paper-links">
+<a href="https://ieeexplore.ieee.org/abstract/document/9852978">[Paper]</a>
+
+
+</span>
+</div>
+
+</div>
+</li>
+
+
 
 
 
