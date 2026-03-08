@@ -51,10 +51,14 @@ ul.paper-list {
   font-family: Arial, sans-serif;
 }
 
+.paper-title,
+.paper-authors {
+  margin: 0;
+}
+
 .paper-title {
   font-weight: bold;
   font-size: 16px;
-  margin-bottom: 2px;
 }
 
 .paper-title a {
