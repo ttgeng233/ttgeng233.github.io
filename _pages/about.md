@@ -220,26 +220,25 @@ UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
 <li class="paper-item">
 
 <img class="paper-thumb"
-src="/images/fig_uniav.png"
-data-large-src="/images/fig_uniav.png">
+src="/images/fig_iclr.jpg"
+data-large-src="/images/fig_iclr.jpg">
 
 <div class="paper-info">
 
 <div class="paper-title">
-<a href="https://ieeexplore.ieee.org/abstract/document/11119190" target="_blank">
-UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization
+<a href="https://arxiv.org/abs/2410.08174" target="_blank">
+Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models
 </a>
 </div>
 
 <div class="paper-authors">
-<b>Tiantian Geng</b>, Teng Wang, Jinming Duan, Yanfu Zhang, Weili Guan, Feng Zheng, Ling Shao
+Qingni Wang, <b>Tiantian Geng</b>, Zhiyuan Wang, Teng Wang, Bo Fu, Feng Zheng
 </div>
 
 <div class="paper-meta">
-<span class="paper-conf">TPAMI 2025</span>
+<span class="paper-conf">ICLR 2025 Spotlight</span>
 <span class="paper-links">
-<a href="https://arxiv.org/pdf/2404.03179">[Paper]</a>
-<a href="https://github.com/ttgeng233/UniAV">[Code]</a>
+<a href="https://arxiv.org/pdf/2410.08174">[Paper]</a>
 </span>
 </div>
 
