@@ -37,8 +37,8 @@ ul.paper-list {
 }
 
 .paper-thumb {
-  width: 150px;
-  height: 100px;
+  width: 160px;
+  height: 120px;
   flex-shrink: 0;
   margin-right: 15px;
   border: 1px solid #ccc;
@@ -124,8 +124,8 @@ ul.paper-list {
 <li class="paper-item">
 
 <img class="paper-thumb"
-src="/images/fig1_ravst.png"
-data-large-src="/images/fig1_ravst.png">
+src="/images/fig1_ravst.jpg"
+data-large-src="/images/fig1_ravst.jpg">
 
 <div class="paper-info">
 
