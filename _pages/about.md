@@ -62,7 +62,7 @@ ul.paper-list {
   color: #095b7c;
 }
 
-.paper-authors {
+.paper-info .paper-authors {
   font-weight: 500;
   font-size: 13px;
   color: #666;
