@@ -27,16 +27,16 @@ Open to collaborations and academic discussions — feel free to reach out!
 
 <!-- # Publications -->
 
-<h1 id="-publications">Publications</h1>
+<!-- <h1 id="-publications">Publications</h1>
 <p>* means equal contribution. Click the image for better visualization.</p>
 
 <style>
 ul.paper-list {
   list-style-type: none;
   padding: 0;
-}
+} -->
 
-.paper-item {
+<!-- .paper-item {
   display: flex;
   align-items: flex-start;
   margin-bottom: 30px;
@@ -378,4 +378,4 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 
-
+ -->
